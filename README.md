@@ -1,1 +1,7 @@
 # Wireless-Security-Detector
+I designed a PCB described in a course I took on the Udemy platform in September 2022. With this course, I designed a PCB namely Wireless Security Detector.
+
+In this project, I learned many things such as component selection criterias, creating my own 3D model, creating a template for the schematic page, working with the STM32CubeMx program, information about stackup and vias, information about differential lines, adding logos to the PCB, teardrops feature, creating variants, panelization and obtaining production outputs.
+
+The requirements of the designed card are as follows:
+The card should be able to work with 220V AC 50 Hz Turkey home network connection. There should be 12V DC and 5V DC power outputs that the user can use from the system. The system should be able to connect to the computer with a USB interface and transfer data. The system should be able to provide real-time clock information to the user. The system should be able to instantly transfer ambient temperature data to the user. The system should be able to send data to the user when a movement is detected. When a movement is detected, the user can receive an audio or visual warning if they wish. The system should have a security camera view in the environment where the movement will be detected. The system will also be able to send all data to the user with its Wi-Fi feature. The user will be able to intervene in the software running in the processor if they wish.
